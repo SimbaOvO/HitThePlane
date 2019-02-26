@@ -150,6 +150,7 @@ function enemyPlane(index, myPlane) {
                 boom(oEnemies[i], true);
                 boom(myPlane, false);
                 gameover();
+                return;
             }
             if (oEnemies[i].offsetTop >= oBox.clientHeight) {
                 oBox.removeChild(oEnemies[i]);
