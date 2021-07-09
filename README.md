@@ -1,5 +1,5 @@
 # HitThePlane
-原生js小练习-打飞机✈
+A game with Javascript & Canvas. Enjoy it!!!
 
-## 鸣猩代言
-大扎好，我系轱天乐，我四渣渣辉，介四里没有挽过的船新版本，挤需体验三番钟，里造会干我一样，爱象节款游戏
+## Just To Learn
+
